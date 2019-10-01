@@ -61,3 +61,5 @@ Add your name to the list below, and send a PR
 | Umang Agarwal | [umangagarwal11](https://github.com/umangagarwal11) |
 | Adit Pabbi | [adirids](https://github.com/adirids) |
 | Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128)
+| Arpit Bhattar| [aptbhattar](https://github.com/aptbhattar)
+
