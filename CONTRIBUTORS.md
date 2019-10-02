@@ -62,3 +62,4 @@ Add your name to the list below, and send a PR
 | Adit Pabbi | [adirids](https://github.com/adirids) |
 | Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128)
 | Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar)
+| Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar)
